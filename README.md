@@ -1,3 +1,4 @@
+
 # E-Commerce Platform
 
 A full stack e-commerce web application built with Django REST Framework and React. Demonstrates end-to-end product management, cart functionality, and real payment processing via Stripe.
@@ -12,6 +13,8 @@ A full stack e-commerce web application built with Django REST Framework and Rea
 - Loading skeleton UI for professional UX
 - Toast notifications for user feedback
 - Stripe payment integration with test card support
+
+<img width="2816" height="1626" alt="Screenshot 2026-06-09 162138" src="https://github.com/user-attachments/assets/0dcd3b18-84f6-4f37-8662-cf7969e00332" />
 
 ---
 
